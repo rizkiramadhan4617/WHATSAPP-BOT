@@ -54,6 +54,7 @@ Change owner
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 - [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
+- [@FDL](https://github.com/FDLBOT)
 - [@itsmeiky](https://github.com/ItsmeikyXSec4O4/ShizukaBOT)
 - [@MhankBarBar](https://github.com/MhankBarBar)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Mario" width="600" />
