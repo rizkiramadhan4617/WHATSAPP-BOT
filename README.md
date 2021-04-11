@@ -10,7 +10,7 @@
 </p>
 <br>
 <p align="center">
-<a href="https://github.com/rizkiramadhan4617"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RIZKI R-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/FDLBOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FDL-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/rizkiramadhan4617/ALFIRAA"><img title="Rating" src="https://www.codefactor.io/repository/github/rizkiramadhan4617/ALFIRAA/badge/main"></A>
