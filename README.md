@@ -32,7 +32,7 @@
 Change owner
 [ownerNumber](https://github.com/rizkiramadhan4617/Bot-Termux/blob/e52b616d2a81e9c94bbf54afbbed726732774995/index.js#L170)
 
-## JOIN THE GROUP <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## JOIN MY GROUP |<
 
 * [`Group`](https://chat.whatsapp.com/BAHKpyOMGcA2m6pHcj920C)
 
