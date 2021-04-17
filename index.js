@@ -3,7 +3,7 @@
 //M.RIZKI RAMADHAN
 //BAGUS
 //RIZ
-// LANJUTIN 
+// ALL KREATOR BOT 
 
 
 const {
