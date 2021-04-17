@@ -51,6 +51,7 @@ Change owner
 
 * [`Group`](https://chat.whatsapp.com/BAHKpyOMGcA2m6pHcj920C)
 * [`riz`](https://github.com/riznih)
+* [`Ravel`](https://github.com/ravel-iska)
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
