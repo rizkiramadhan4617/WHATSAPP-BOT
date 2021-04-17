@@ -1,0 +1,29 @@
+{
+  "name": "sayu-chan",
+  "version": "1.0.0",
+  "description": "sayu-chan bot create 17-04-2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkiramadhan4617/ALFIRAA.git"
+  },
+  "keywords": [
+    "sayu-chan",
+    "bot",
+    "whatsapp"
+  ],
+  "author": "RRB",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.0",
+    "fs": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/rizkiramadhan4617/ALFIRAA/issues"
+  },
+  "homepage": "https://github.com/rizkiramadhan4617/ALFIRAA#readme"
+}
