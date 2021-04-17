@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hai 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hai stah > 
 ## نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ ۚ بَلْ لَا يَشْعُرُونَ
 
 ## Kami bersegera memberikan kebaikan-kebaikan kepada mereka? Tidak, sebenarnya mereka tidak sadar {1008}.
@@ -26,22 +26,6 @@
 
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
 
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-<p align="center">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-
-  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
-
-  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
-
-  <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
-
-  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
-
 
 ### SETTING:
 Change owner
@@ -56,7 +40,7 @@ Change owner
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 - [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
-- [@MhankBarBar](https://github.com/MhankBarBar)
+- [@MhankBarBarr](https://github.com/MhankBarBar)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Mario" width="600" />
 
   
