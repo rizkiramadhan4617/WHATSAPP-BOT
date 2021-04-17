@@ -50,6 +50,7 @@ Change owner
 ## JOIN THE GROUP <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Group`](https://chat.whatsapp.com/BAHKpyOMGcA2m6pHcj920C)
+* [`riz`](https://github.com/riznih)
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
