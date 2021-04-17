@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hai stah > 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hai stah > 👑 
 ## نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ ۚ بَلْ لَا يَشْعُرُونَ
 
 ## Kami bersegera memberikan kebaikan-kebaikan kepada mereka? Tidak, sebenarnya mereka tidak sadar {1008}.
@@ -32,13 +32,15 @@ Change owner
 ## JOIN THE GROUP <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Group`](https://chat.whatsapp.com/BAHKpyOMGcA2m6pHcj920C)
-* [`riz`](https://github.com/riznih)
-* [`Ravel`](https://github.com/ravel-iska)
+
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 - [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)
 - [@MhankBarBarr](https://github.com/MhankBarBar)
+- [riz](https://github.com/riznih)
+
+- [Ravel](https://github.com/ravel-iska)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Mario" width="600" />
 
   
