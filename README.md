@@ -6,8 +6,11 @@
 ## Q.S Al Mu'minun ayat 56
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rizkiramadhan4617/ALFIRAA/main/Rizki/IMG-20210228-WA0056.jpg" width="230" height="230"/>
+
+<img src="https://raw.githubusercontent.com/rizkiramadhan4617/RR018-BOT/main/RR_018/20210110_042601.png" width="230" height="230"/>
+
 </p>
+
 <br>
 <p align="center">
 <a href="https://github.com/rizkiramadhan4617"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RIZKI R-orange.svg?style=for-the-badge&logo=github"></a>
