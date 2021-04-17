@@ -44,6 +44,6 @@ Change owner
 - [riz](https://github.com/riznih)
 
 - [Ravel](https://github.com/ravel-iska)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Mario" width="660" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Mario" width="750" />
 
   
