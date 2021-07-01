@@ -14,7 +14,7 @@
 
 </p>
 
-<br>
+
 
 <p align="center">
 
@@ -26,7 +26,7 @@
 
 
 
-</p>
+<br>
 <p align="center">
   
 <a href="https://github.com/rizkiramadhan4617"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RIZKI R-orange.svg?style=for-the-badge&logo=github"></a>
