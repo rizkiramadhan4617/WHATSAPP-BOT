@@ -16,7 +16,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "RRB",
+  "author": "RR018",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.0",
