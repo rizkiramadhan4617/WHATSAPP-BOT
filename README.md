@@ -24,6 +24,6 @@
 
 
 ### Support me
-- <img 
+- [Saweria](https://saweria.co/RR018)
 
 
