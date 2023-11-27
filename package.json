@@ -19,7 +19,7 @@
   "author": "RRB",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.0",
+    "@adiwajshing/baileys": "^4.0.0",
     "fs": "*"
   },
   "bugs": {
